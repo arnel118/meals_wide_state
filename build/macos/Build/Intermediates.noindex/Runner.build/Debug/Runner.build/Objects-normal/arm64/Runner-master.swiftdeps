@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "b769626ac9161929133613f28d906f650405523a924bc16cf7607170b802dbf8"
+build_start_time: [1685288756, 374338150]
+build_end_time: [1685288760, 919867992]
+inputs:
+  "/Users/arnelv/flutter_app/meals_wide_state/macos/Flutter/GeneratedPluginRegistrant.swift": [1685288738, 145091056]
+  "/Users/arnelv/flutter_app/meals_wide_state/macos/Runner/AppDelegate.swift": [1675961119, 0]
+  "/Users/arnelv/flutter_app/meals_wide_state/macos/Runner/MainFlutterWindow.swift": [1675961119, 0]
